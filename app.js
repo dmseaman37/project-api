@@ -9,16 +9,82 @@ const db = {
   events: [
     {
       id: 1,
-      name: 'event 1',
-      date: 'mm/dd/yy',
-      location: 'place'
+      name: 'Horn Studio Placement Auditions',
+      date: '8/26/19',
+      location: 'BMH 116'
     },
     {
       id: 2,
-      name: 'event 2',
-      date: 'mm/dd/yy',
-      location: 'place'
-    }
+      name: 'Thornton Symphony Concert #1',
+      date: '9/13/19',
+      location: 'Bovard Auditorium'
+    },
+    {
+      id: 3,
+      name: 'Outreach chamber music performance',
+      date: '9/18/19',
+      location: 'LA Braille Institute'
+    },
+    {
+      id: 4,
+      name: 'Thornton Symphony Concert #2',
+      date: '9/27/19',
+      location: 'Bovard Auditorium'
+    },
+    {
+      id: 5,
+      name: 'Thornton Edge Concert #1',
+      date: '10/7/19',
+      location: 'Newman Recital Hall'
+    },
+    {
+      id: 6,
+      name: 'Thornton Wind Ensemble Concert #1',
+      date: '10/11/19',
+      location: 'Bovard Auditorium'
+    },
+    {
+      id: 7,
+      name: 'Thornton Concerto Night',
+      date: '10/16/19',
+      location: 'Bovard Auditorium'
+    },
+    {
+      id: 8,
+      name: 'Masterclass with Sarah Willis',
+      date: '10/24/19',
+      location: 'The Colburn School'
+    },
+    {
+      id: 9,
+      name: 'Thornton Wind Ensemble Concert #2',
+      date: '11/1/19',
+      location: 'Bovard Auditorium'
+    },
+    {
+      id: 10,
+      name: 'Masterclass with Robert Ward',
+      date: '11/6/19',
+      location: 'The Colburn School'
+    },
+    {
+      id: 11,
+      name: 'Thornton Chamber Orchestra Concert',
+      date: '11/15/19',
+      location: 'Bovard Auditorium'
+    },
+    {
+      id: 12,
+      name: 'Thornton Edge Concert #2',
+      date: '11/19/19',
+      location: 'Newman Recital Hall'
+    },
+    {
+      id: 13,
+      name: 'Horn Choir Recital',
+      date: '11/19/19',
+      location: 'Los Angeles Braille Institute'
+    },
   ],
   members: [
     {
