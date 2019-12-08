@@ -87,93 +87,91 @@ const db = {
     },
   ],
   members: [
-        {
-          name: 'James Edwards',
-          year: 'Freshman',
-          category: 'undergrad'
-        },
-        {
-          name: 'Sophie Barnard',
-          year: 'Sophomore',
-          category: 'undergrad'
-        },
-        {
-          name: 'Rachel Kim',
-          year: 'Sophomore',
-          category: 'undergrad'
-        },
-        {
-          name: 'Alex Liang',
-          year: 'Junior',
-          category: 'undergrad'
-        },
-        {
-          name: 'Elizabeth Li',
-          year: 'Junior',
-          category: 'undergrad'
-        },
-        {
-          name: 'Killian Mulrooney',
-          year: 'Junior',
-          category: 'undergrad'
-        },
-        {
-          name: 'Daniel Seaman',
-          year: 'Senior',
-          category: 'undergrad'
-        },
-        {
-          name: 'Malik Taylor',
-          year: 'Senior',
-          category: 'undergrad'
-        },
-        {
-          name: 'Will Grace',
-          year: 'Masters',
-          category: 'grad'
-        },
-        {
-          name: 'Abraham Murillo',
-          year: 'Masters',
-          category: 'grad'
-        },
-        {
-          name: 'Daniel Skib',
-          year: 'Masters',
-          category: 'grad'
-        },
-        {
-          name: 'Eun Jin Koh',
-          year: 'Graduate Certificate',
-          category: 'grad'
-        },
-        {
-          name: 'Christian Thomas',
-          year: 'Doctoral',
-          category: 'grad'
-        },
-        {
-          name: 'Sean Holmes',
-          year: 'Doctoral',
-          category: 'grad'
-        },
-        {
-          name: 'Matt Reynolds',
-          year: 'Doctoral',
-          category: 'grad'
-        },
-        {
-          name: 'Stephanie Ginnings',
-          year: 'Doctoral',
-          category: 'grad'
-        },
-        {
-          name: 'Jason Chilson',
-          year: 'Doctoral',
-          category: 'grad'
-        },
-      ]
-    }
+    {
+      name: 'James Edwards',
+      year: 'Freshman',
+      category: 'undergrad'
+    },
+    {
+      name: 'Sophie Barnard',
+      year: 'Sophomore',
+      category: 'undergrad'
+    },
+    {
+      name: 'Rachel Kim',
+      year: 'Sophomore',
+      category: 'undergrad'
+    },
+    {
+      name: 'Alex Liang',
+      year: 'Junior',
+      category: 'undergrad'
+    },
+    {
+      name: 'Elizabeth Li',
+      year: 'Junior',
+      category: 'undergrad'
+    },
+    {
+      name: 'Killian Mulrooney',
+      year: 'Junior',
+      category: 'undergrad'
+    },
+    {
+      name: 'Daniel Seaman',
+      year: 'Senior',
+      category: 'undergrad'
+    },
+    {
+      name: 'Malik Taylor',
+      year: 'Senior',
+      category: 'undergrad'
+    },
+    {
+      name: 'Will Grace',
+      year: 'Masters',
+      category: 'grad'
+    },
+    {
+      name: 'Abraham Murillo',
+      year: 'Masters',
+      category: 'grad'
+    },
+    {
+      name: 'Daniel Skib',
+      year: 'Masters',
+      category: 'grad'
+    },
+    {
+      name: 'Eun Jin Koh',
+      year: 'Graduate Certificate',
+      category: 'grad'
+    },
+    {
+      name: 'Christian Thomas',
+      year: 'Doctoral',
+      category: 'grad'
+    },
+    {
+      name: 'Sean Holmes',
+      year: 'Doctoral',
+      category: 'grad'
+    },
+    {
+      name: 'Matt Reynolds',
+      year: 'Doctoral',
+      category: 'grad'
+    },
+    {
+      name: 'Stephanie Ginnings',
+      year: 'Doctoral',
+      category: 'grad'
+    },
+    {
+      name: 'Jason Chilson',
+      year: 'Doctoral',
+      category: 'grad'
+    },
   ]
 };
 
