@@ -87,79 +87,90 @@ const db = {
     },
   ],
   members: [
-    {
-      undergrads: [
         {
           name: 'James Edwards',
-          year: 'Freshman'
+          year: 'Freshman',
+          category: 'undergrad'
         },
         {
           name: 'Sophie Barnard',
-          year: 'Sophomore'
+          year: 'Sophomore',
+          category: 'undergrad'
         },
         {
           name: 'Rachel Kim',
-          year: 'Sophomore'
+          year: 'Sophomore',
+          category: 'undergrad'
         },
         {
           name: 'Alex Liang',
-          year: 'Junior'
+          year: 'Junior',
+          category: 'undergrad'
         },
         {
           name: 'Elizabeth Li',
-          year: 'Junior'
+          year: 'Junior',
+          category: 'undergrad'
         },
         {
           name: 'Killian Mulrooney',
-          year: 'Junior'
+          year: 'Junior',
+          category: 'undergrad'
         },
         {
           name: 'Daniel Seaman',
-          year: 'Senior'
+          year: 'Senior',
+          category: 'undergrad'
         },
         {
           name: 'Malik Taylor',
-          year: 'Senior'
-        }
-      ]
-    },
-    {
-      grads: [
+          year: 'Senior',
+          category: 'undergrad'
+        },
         {
           name: 'Will Grace',
-          year: 'Masters'
+          year: 'Masters',
+          category: 'grad'
         },
         {
           name: 'Abraham Murillo',
-          year: 'Masters'
+          year: 'Masters',
+          category: 'grad'
         },
         {
           name: 'Daniel Skib',
-          year: 'Masters'
+          year: 'Masters',
+          category: 'grad'
         },
         {
           name: 'Eun Jin Koh',
-          year: 'Graduate Certificate'
+          year: 'Graduate Certificate',
+          category: 'grad'
         },
         {
           name: 'Christian Thomas',
-          year: 'Doctoral'
+          year: 'Doctoral',
+          category: 'grad'
         },
         {
           name: 'Sean Holmes',
-          year: 'Doctoral'
+          year: 'Doctoral',
+          category: 'grad'
         },
         {
           name: 'Matt Reynolds',
-          year: 'Doctoral'
+          year: 'Doctoral',
+          category: 'grad'
         },
         {
           name: 'Stephanie Ginnings',
-          year: 'Doctoral'
+          year: 'Doctoral',
+          category: 'grad'
         },
         {
           name: 'Jason Chilson',
-          year: 'Doctoral'
+          year: 'Doctoral',
+          category: 'grad'
         },
       ]
     }
