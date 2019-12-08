@@ -88,36 +88,80 @@ const db = {
   ],
   members: [
     {
-      name: 'James Edwards',
-      year: 'Freshman'
+      undergrads: [
+        {
+          name: 'James Edwards',
+          year: 'Freshman'
+        },
+        {
+          name: 'Sophie Barnard',
+          year: 'Sophomore'
+        },
+        {
+          name: 'Rachel Kim',
+          year: 'Sophomore'
+        },
+        {
+          name: 'Alex Liang',
+          year: 'Junior'
+        },
+        {
+          name: 'Elizabeth Li',
+          year: 'Junior'
+        },
+        {
+          name: 'Killian Mulrooney',
+          year: 'Junior'
+        },
+        {
+          name: 'Daniel Seaman',
+          year: 'Senior'
+        },
+        {
+          name: 'Malik Taylor',
+          year: 'Senior'
+        }
+      ]
     },
     {
-      name: 'Sophie Barnard',
-      year: 'Sophomore'
-    },
-    {
-      name: 'Rachel Kim',
-      year: 'Sophomore'
-    },
-    {
-      name: 'Alex Liang',
-      year: 'Junior'
-    },
-    {
-      name: 'Elizabeth Li',
-      year: 'Junior'
-    },
-    {
-      name: 'Killian Mulrooney',
-      year: 'Junior'
-    },
-    {
-      name: 'Daniel Seaman',
-      year: 'Senior'
-    },
-    {
-      name: 'Malik Taylor',
-      year: 'Senior'
+      grads: [
+        {
+          name: 'Will Grace',
+          year: 'Masters'
+        },
+        {
+          name: 'Abraham Murillo',
+          year: 'Masters'
+        },
+        {
+          name: 'Daniel Skib',
+          year: 'Masters'
+        },
+        {
+          name: 'Eun Jin Koh',
+          year: 'Graduate Certificate'
+        },
+        {
+          name: 'Christian Thomas',
+          year: 'Doctoral'
+        },
+        {
+          name: 'Sean Holmes',
+          year: 'Doctoral'
+        },
+        {
+          name: 'Matt Reynolds',
+          year: 'Doctoral'
+        },
+        {
+          name: 'Stephanie Ginnings',
+          year: 'Doctoral'
+        },
+        {
+          name: 'Jason Chilson',
+          year: 'Doctoral'
+        },
+      ]
     }
   ]
 };
