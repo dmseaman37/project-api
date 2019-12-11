@@ -3,7 +3,7 @@ const cors = require('cors');
 const app = express();
 
 app.use(express.json());
-app.use(cors({origin: 'bored-soda.surge.sh'}));
+app.use(cors({origin: 'http://bored-soda.surge.sh'}));
 
 const db = {
   events: [
