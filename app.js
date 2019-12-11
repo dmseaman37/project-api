@@ -89,88 +89,71 @@ const db = {
   members: [
     {
       name: 'James Edwards',
-      year: 'Freshman',
-      category: 'undergrad'
+      year: 'Freshman'
     },
     {
       name: 'Sophie Barnard',
-      year: 'Sophomore',
-      category: 'undergrad'
+      year: 'Sophomore'
     },
     {
       name: 'Rachel Kim',
-      year: 'Sophomore',
-      category: 'undergrad'
+      year: 'Sophomore'
     },
     {
       name: 'Alex Liang',
-      year: 'Junior',
-      category: 'undergrad'
+      year: 'Junior'
     },
     {
       name: 'Elizabeth Li',
-      year: 'Junior',
-      category: 'undergrad'
+      year: 'Junior'
     },
     {
       name: 'Killian Mulrooney',
-      year: 'Junior',
-      category: 'undergrad'
+      year: 'Junior'
     },
     {
       name: 'Daniel Seaman',
-      year: 'Senior',
-      category: 'undergrad'
+      year: 'Senior'
     },
     {
       name: 'Malik Taylor',
-      year: 'Senior',
-      category: 'undergrad'
+      year: 'Senior'
     },
     {
       name: 'Will Grace',
-      year: 'Masters',
-      category: 'grad'
+      year: 'Masters'
     },
     {
       name: 'Abraham Murillo',
-      year: 'Masters',
-      category: 'grad'
+      year: 'Masters'
     },
     {
       name: 'Daniel Skib',
-      year: 'Masters',
-      category: 'grad'
+      year: 'Masters'
     },
     {
       name: 'Eun Jin Koh',
-      year: 'Graduate Certificate',
-      category: 'grad'
+      year: 'Graduate Certificate'
     },
     {
       name: 'Christian Thomas',
-      year: 'Doctoral',
-      category: 'grad'
+      year: 'Doctoral'
     },
     {
       name: 'Sean Holmes',
-      year: 'Doctoral',
-      category: 'grad'
+      year: 'Doctoral'
     },
     {
       name: 'Matt Reynolds',
-      year: 'Doctoral',
-      category: 'grad'
+      year: 'Doctoral'
     },
     {
       name: 'Stephanie Ginnings',
-      year: 'Doctoral',
-      category: 'grad'
+      year: 'Doctoral'
     },
     {
       name: 'Jason Chilson',
-      year: 'Doctoral',
-      category: 'grad'
+      year: 'Doctoral'
     },
   ]
 };
